@@ -1,0 +1,24 @@
+(dp0
+S'groupA'
+p1
+(lp2
+S'England'
+p3
+aS'Bangladesh'
+p4
+aS'Australia'
+p5
+aS'Srilanka'
+p6
+asS'groupB'
+p7
+(lp8
+S'India'
+p9
+aS'Pakistan'
+p10
+aS'NewZealand'
+p11
+aS'South Africa'
+p12
+as.

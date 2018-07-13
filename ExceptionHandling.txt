@@ -1,0 +1,11 @@
+opening the file
+Enter any number: 
+The user entered number is: 12 
+The result is : 8
+Closing the file.
+=============================
+esting append operations on the file.
+Done with append operation
+=============================
+esting append operations on the file.
+Done with append operation

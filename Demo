@@ -1,0 +1,4 @@
+f.readline()
+"This is the first line of the file"
+f.readline()
+"This is the second line of the file"
